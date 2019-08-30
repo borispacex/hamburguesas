@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hamburguesa</string>
+    <string name="title_activity_factura">activity_factura</string>
+</resources>
